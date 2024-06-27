@@ -1,4 +1,4 @@
-## Olá, me chamo Lucas Fernandes, sou apaixonado por tecnologia e curso Ciência da computação.
+## Olá! me chamo Lucas Fernandes, sou apaixonado por tecnologia e curso Ciência da computação.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasidefer&layout=compact" />
