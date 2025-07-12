@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Lucas Fernandes**!
+My name is **Lucas Fernandes**, I am 25 years old, I am Brazilian, and I live in Rio de Janeiro.
 
 🎓 Currently graduated in  **Computer Science** (Start in May 2021 and completed in September 2025).  
 📚 I have some certificates in computer networks and full-stack development, including software engineering principles, and I am committed to continuously expanding my expertise.  
