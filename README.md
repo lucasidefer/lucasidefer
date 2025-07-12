@@ -1,15 +1,40 @@
-## Olá! me chamo Lucas Fernandes, sou apaixonado por tecnologia e curso Ciência da computação.
+# 👋 Hello, welcome to my GitHub profile!
+
+## 🚀 About Me
+
+I'm **Lucas Fernandes**!
+
+🎓 Currently graduated in  **Computer Science** (Start in May 2021 and completed in September 2025).  
+📚 I have some certificates in computer networks and full-stack development, including software engineering principles, and I am committed to continuously expanding my expertise.  
+💼 I have extensive experience in IT infrastructure and networking, but I am currently seeking my first opportunity in development.
+
+---
+
+## 🛠️ Tools and Technologies
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,mongodb,mysql,postgresql)](https://skillicons.dev)
+
+---
+
+## 🎯 Goals
+
+- 📌 Improve my skills.
+- 📌 Contribute to open source and personal projects.
+- 📌 Develop real-world apps to solve problems.
+- 📌 Land my first dev job in development.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernandes-29a9b6223/)  
+
+---
+
+## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasidefer&layout=compact" />
 </a>
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
