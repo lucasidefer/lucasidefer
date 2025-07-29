@@ -6,7 +6,7 @@ I'm **Lucas Fernandes**, I'm 25 years old, I'm Brazilian, and I live in Rio de J
 
 🎓 Currently graduated in  **Computer Science** (Start in May 2021 and completed in September 2025).  
 📚 I have some certificates in computer networks and full-stack development, including software engineering principles, and I am committed to continuously expanding my expertise.  
-💼 I have extensive experience in IT infrastructure and networking, but I am currently seeking my first opportunity in development.
+💼 I have extensive experience in IT infrastructure and networking, but I am currently seeking for my first opportunity in development.
 
 ---
 
