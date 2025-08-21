@@ -34,7 +34,18 @@ I'm **Lucas Fernandes**, I'm 25 years old, I'm Brazilian, and I live in Rio de J
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasidefer&layout=compact" />
-</a>
+
+<div align="center">
+  <img
+    height=200
+    align="left"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=lucasidefer&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  />
+  <img
+    height=195
+    align="left"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasidefer&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
 
